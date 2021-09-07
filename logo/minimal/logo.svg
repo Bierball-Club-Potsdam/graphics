@@ -65,7 +65,7 @@
        cy="144.50705"
        cx="208.77466"
        id="green_background"
-       style="display:inline;vector-effect:none;fill:#30983e icc-color(ISO-Coated-v2-300---ECI-, 0.773266, 0.0586709, 0.902144, 0.180423);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;vector-effect:none;fill:#30983e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:label="green_background" />
     <path
        id="path2303"
