@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="213.4597mm"
-   height="213.4597mm"
-   viewBox="0 0 213.4597 213.45971"
+   width="205.4597mm"
+   height="205.4597mm"
+   viewBox="0 0 205.4597 205.45971"
    version="1.1"
    id="svg2358"
    sodipodi:docname="logo.svg"
@@ -27,32 +27,33 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
      inkscape:zoom="0.69575617"
-     inkscape:cx="453.46346"
-     inkscape:cy="23.715205"
+     inkscape:cx="437.65332"
+     inkscape:cy="7.9050682"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="1911"
      inkscape:window-y="2"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     lock-margins="true" />
   <defs
      id="defs2355">
     <color-profile
        name="ISO-Coated-v2-300---ECI-"
        xlink:href="../../../WINDOWS/system32/spool/drivers/color/ISOcoated_v2_300_eci.icc"
-       id="color-profile42878" />
+       id="color-profile841" />
   </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-102.04481,-37.777199)">
+     transform="translate(-106.04481,-41.777199)">
     <circle
        r="101.72985"
        cy="144.50705"
